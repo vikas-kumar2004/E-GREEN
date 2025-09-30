@@ -8,7 +8,7 @@ const HomePage = () => {
           {/* Image */}
           <div className="flex-1">
             <img
-              src="https://static.vecteezy.com/system/resources/thumbnails/040/995/143/small/ai-generated-fields-of-solar-panels-and-systems-to-produce-green-electricity-ai-generated-photo.jpg"
+              src="https://lasolarfactory.com/assets/images/fd/fd2eff_Solar-Panel-Advantages.jpg"
               alt="Solar Panels"
               className="w-full rounded-2xl shadow-lg"
             />
